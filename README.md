@@ -3,20 +3,20 @@ pt.wikipedia.org
 .
 
  Conteúdo:
-Arquivos HTML principais que estruturam as páginas do site.
+1. Arquivos HTML principais que estruturam as páginas do site.
 
-Estilos CSS customizados, aproveitando componentes e utilitários do Bootstrap.
+2. Estilos CSS customizados, aproveitando componentes e utilitários do Bootstrap.
 
-Possível uso de JavaScript (via bibliotecas ou plugins do Bootstrap) para interatividade.
+3. Possível uso de JavaScript (via bibliotecas ou plugins do Bootstrap) para interatividade.
 
  Objetivo:
-O projeto serve como experiência prática no uso de Bootstrap, ensinando como:
+1. O projeto serve como experiência prática no uso de Bootstrap, ensinando como:
 
-Incluir o framework via CDN ou build local.
+2. Incluir o framework via CDN ou build local.
 
-Utilizar o sistema de grid responsivo para layout flexível.
+3. Utilizar o sistema de grid responsivo para layout flexível.
 
-Implementar componentes prontos (botões, navegadores, cards, modais etc.).
+4. Implementar componentes prontos (botões, navegadores, cards, modais etc.).
 
 Customizar visualmente por meio de variáveis Sass ou classes utilitárias.
 
