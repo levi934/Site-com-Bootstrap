@@ -7,7 +7,7 @@ pt.wikipedia.org
 
 2. Estilos CSS customizados, aproveitando componentes e utilitários do Bootstrap.
 
-3. Possível uso de JavaScript (via bibliotecas ou plugins do Bootstrap) para interatividade.
+3. Uso de JavaScript (via bibliotecas ou plugins do Bootstrap) para interatividade.
 
  Objetivo:
 1. O projeto serve como experiência prática no uso de Bootstrap, ensinando como:
